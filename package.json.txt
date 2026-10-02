@@ -1,0 +1,21 @@
+{
+  "name": "app.js_660910396",
+  "version": "1.0.0",
+  "description": "Mini Project REST API Workout Log",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node --watch server/server.js"
+  },
+  "keywords": [],
+  "author": "Parapon Khongniyom",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.6",
+    "express": "^4.22.3"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "nodemon": "^3.1.14"
+  }
+}
